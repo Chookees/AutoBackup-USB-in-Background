@@ -4,3 +4,12 @@ c:\users\d013\documents\visual studio 2012\Projects\Auto Backup\Auto Backup\bin\
 c:\users\d013\documents\visual studio 2012\Projects\Auto Backup\Auto Backup\bin\Debug\Auto Backup.pdb
 c:\users\d013\documents\visual studio 2012\Projects\Auto Backup\Auto Backup\obj\Debug\Auto Backup.exe
 c:\users\d013\documents\visual studio 2012\Projects\Auto Backup\Auto Backup\obj\Debug\Auto Backup.pdb
+H:\BxT2\Auto Backup\Auto Backup\bin\Debug\Auto Backup.exe.config
+H:\BxT2\Auto Backup\Auto Backup\obj\Debug\Auto Backup.exe
+H:\BxT2\Auto Backup\Auto Backup\obj\Debug\Auto Backup.pdb
+H:\BxT2\Auto Backup\Auto Backup\bin\Debug\Auto Backup.exe
+H:\BxT2\Auto Backup\Auto Backup\bin\Debug\Auto Backup.pdb
+H:\BxT2\Auto Backup\Auto Backup\obj\Debug\Auto Backup.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Desktop\Auto Backup\Auto Backup\bin\Debug\Auto Backup.exe.config
+C:\Users\Artur\Desktop\Auto Backup\Auto Backup\obj\Debug\Auto Backup.exe
+C:\Users\Artur\Desktop\Auto Backup\Auto Backup\obj\Debug\Auto Backup.pdb

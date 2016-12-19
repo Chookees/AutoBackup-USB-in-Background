@@ -16,14 +16,19 @@ namespace Auto_Backup_Artur
             bool bCheck = true;
             do
             {
+                //Getting all drives in Laufwerke
                 DriveInfo[] Laufwerke = DriveInfo.GetDrives();
 
+                //Declaring Target Path
                 string sZielpfad = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\Backup " + DateTime.Now.ToShortDateString();
 
-                Thread.Sleep(200);
+                //Sleep to reduce cpu usage
+                Thread.Sleep(1000);
+
+                //Going through all drives
                 foreach (DriveInfo dInfo in Laufwerke)
                 {
-                    //End Program if Target exist
+                    //End Program if Target Directory exist
                     if (File.Exists(sZielpfad + ".zip"))
                     {
                         bCheck = false;
@@ -32,11 +37,14 @@ namespace Auto_Backup_Artur
                     //Check if Drive is Removable
                     else if (dInfo.DriveType == DriveType.Removable)
                     {
+                        //Sleep to Reduce cpu usage
+                        Thread.Sleep(1000);
 
-                        Thread.Sleep(200);
                         //SourcePath declaring
                         DirectoryInfo dPfad = dInfo.RootDirectory;
                         string sQuelle = Path.GetFullPath(dPfad.ToString());
+
+                        Thread.Sleep(500);
 
                         //Getting all Info's
                         DirectoryInfo dOrdnerInfo = new DirectoryInfo(sQuelle);
