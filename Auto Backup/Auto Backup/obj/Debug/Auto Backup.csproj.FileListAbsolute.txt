@@ -1,0 +1,6 @@
+c:\users\d013\documents\visual studio 2012\Projects\Auto Backup\Auto Backup\bin\Debug\Auto Backup.exe.config
+c:\users\d013\documents\visual studio 2012\Projects\Auto Backup\Auto Backup\obj\Debug\Auto Backup.csprojResolveAssemblyReference.cache
+c:\users\d013\documents\visual studio 2012\Projects\Auto Backup\Auto Backup\bin\Debug\Auto Backup.exe
+c:\users\d013\documents\visual studio 2012\Projects\Auto Backup\Auto Backup\bin\Debug\Auto Backup.pdb
+c:\users\d013\documents\visual studio 2012\Projects\Auto Backup\Auto Backup\obj\Debug\Auto Backup.exe
+c:\users\d013\documents\visual studio 2012\Projects\Auto Backup\Auto Backup\obj\Debug\Auto Backup.pdb
